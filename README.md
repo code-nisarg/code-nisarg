@@ -1,40 +1,62 @@
-# Hi there, I'm Nisarg 👋
+<h1 align="center">Hi 👋, I'm Nisarg Anand</h1>
+<h3 align="center">A developer passionate about building impactful software</h3>
+
+---
 
 ## 🚀 About Me
-- 🎓 B.Tech student in Electronics and Telecommunication at SPIT, Mumbai  
-- 💻 Passionate about software development, AI, and system design  
-- 🌱 Currently learning **Cloud Computing, System Design, and DevOps**  
-- 🤝 Open to collaborating on open-source projects  
+
+- 💻 I enjoy building **full-stack applications and developer tools**
+- 🌱 Currently learning **advanced web development and system design**
+- 🧠 Interested in **AI, DevOps, and scalable software**
+- ⚡ I like turning ideas into working products
 
 ---
 
-## 🛠️ Skills
-- **Languages:** Python, Java, C++, JavaScript  
-- **Frameworks/Tools:** React, Node.js, Django, Flutter, Docker, Git  
-- **Concepts:** OOP, DSA, REST APIs, Databases  
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📂 Projects
-- 🌐 [Period Tracker App](https://v0-periods.vercel.app/) — AI-powered cycle prediction app  
-- 📋 [Task Manager API](https://github.com/code-nisarg) — Role-based task management REST API  
-- 🤖 [AI Chatbot](https://github.com/code-nisarg) — NLP chatbot integrated with Telegram  
-- 🖥️ [Portfolio Website](https://code-nisarg.vercel.app/) — My personal portfolio  
+## 📊 GitHub Stats
+
+![Nisarg's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🏆 Achievements
-- 🥇 Winner, University Hackathon 2022  
-- 📑 Published research on AI-powered chatbots (IJCA, 2023)  
-- 🔥 Solved 500+ problems on LeetCode (Top 10% globally)  
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-nisarg&theme=tokyonight)
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisarg-anand)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/code-nisarg)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:anandnisarg04@gmail.com)  
+## 📌 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-nisarg&layout=compact&theme=tokyonight)
 
 ---
 
-⭐️ From [code-nisarg](https://github.com/code-nisarg)
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/code-nisarg
+- LinkedIn: add-your-link
+- Portfolio: add-if-you-have
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving engineering problems and building things that actually get used.
