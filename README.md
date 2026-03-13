@@ -25,45 +25,11 @@
 
 ### 🔭 &nbsp; `STAR MAP — NISARG.CONSTELLATION`
 
+<br/>
+
+<img src="./about-starmap.svg" width="100%"/>
+
 </div>
-
-```
-                        . · ✦ · .
-          ✧                                      ✧
-                  ★  NISARG  ★
-               [ RA 21h 42m · DEC +18° 52' ]
-          ·                                          ·
-
-   ✦ ──────────────────────────────────────────── ✦
-
-        ✺  OBJECT CLASS   →   Full Stack Developer
-        ✺  ORIGIN SYSTEM  →   India  🌏
-        ✺  CLUSTER        →   Student Developers Club
-
-   ✦ ──────────────────────────────────────────── ✦
-
-                    ·  ORBITAL TRAITS  ·
-
-        ⊹  Hackathons & building under pressure
-        ⊹  Creative tech projects
-        ⊹  Video editing & motion design
-
-   ✦ ──────────────────────────────────────────── ✦
-
-              ·  SIGNAL ACQUISITIONS  ·
-
-        ◈  React  ◈  Next.js  ◈  Node.js
-             ◈  Docker  ◈  PostgreSQL
-
-   ✦ ──────────────────────────────────────────── ✦
-
-         📻  LAST KNOWN TRANSMISSION  →
-             "I debug at 2am and call it productive"
-
-          ·                                          ·
-          ✧                                      ✧
-                        · · ✦ · ·
-```
 
 ---
 
@@ -138,18 +104,6 @@
 
 <div align="center">
 
-### 🏆 &nbsp; `MISSION TROPHIES`
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=code-nisarg&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 🌱 &nbsp; `CURRENT ORBIT — LEARNING`
 
 <br/>
@@ -164,24 +118,6 @@
 | Node.js & Express | Active | `███████░░░` 70% |
 | Docker | Learning | `█████░░░░░` 50% |
 | PostgreSQL | Learning | `████░░░░░░` 40% |
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 &nbsp; `CONTRIBUTION SNAKE`
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-nisarg/code-nisarg/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code-nisarg/code-nisarg/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/code-nisarg/code-nisarg/output/github-snake-dark.svg" width="100%"/>
-</picture>
-
-> ⚙️ *Enable by adding the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo.*
 
 </div>
 
