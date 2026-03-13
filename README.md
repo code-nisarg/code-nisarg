@@ -4,9 +4,7 @@
 <!--              COSMIC HEADER                     -->
 <!-- ══════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=NISARG&fontColor=ff5820&fontSize=80&fontAlignY=55&desc=Developer%20%E2%80%A2%20Hackathon%20Enthusiast%20%E2%80%A2%20Video%20Editor&descAlignY=75&descSize=16&stroke=ff3010&strokeWidth=2" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d1a,40:1a0800,100:ff3010&text=NISARG&fontColor=ffffff&fontSize=72&fontAlignY=40&fontAlign=50&desc=Developer%20%E2%80%A2%20Hackathon%20Enthusiast%20%E2%80%A2%20Video%20Editor&descFontColor=ffaa80&descAlignY=62&descAlign=50&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=800&color=FF5820&center=true&vCenter=true&width=600&lines=Building+Cool+Projects+%F0%9F%9A%80;Hackathons+%7C+Dev+%7C+Creativity+%F0%9F%94%A5;Always+Learning+Something+New+%E2%9C%A8;Welcome+to+my+GitHub+%F0%9F%8C%8C" />
 
