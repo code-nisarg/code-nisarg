@@ -10,7 +10,7 @@
 ## 🟡 Pac-Man Contribution Graph
 
 <p align="center">
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/pacman-contribution-graph.svg">
+<img src="https://github.com/code-nisarg/code-nisarg/blob/output/pacman-contribution-graph.svg">
 </p>
 
 ---
@@ -36,25 +36,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-nisarg&theme=tokyonight"/>
 
 </p>
 
