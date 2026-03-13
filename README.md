@@ -7,76 +7,88 @@
 
 ---
 
-# 🟡 Pac-Man Contribution Graph
+## 🟡 Contribution Graph
 
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/code-nisarg/code-nisarg/blob/output/pacman-contribution-graph.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/code-nisarg/code-nisarg/blob/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://github.com/code-nisarg/code-nisarg/blob/output/pacman-contribution-graph.svg">
+
+<!-- Dark Mode -->
+<source media="(prefers-color-scheme: dark)"
+srcset="https://github.com/code-nisarg/code-nisarg/blob/output/github-contribution-grid-snake-dark.svg">
+
+<!-- Light Mode -->
+<source media="(prefers-color-scheme: light)"
+srcset="https://github.com/code-nisarg/code-nisarg/blob/output/pacman-contribution-graph.svg">
+
+<img alt="Contribution animation"
+src="https://github.com/code-nisarg/code-nisarg/blob/output/github-contribution-grid-snake-dark.svg">
+
 </picture>
 
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 - 💻 Core Member of **Student Developers Club**
-- 🏆 Hackathon participant & winner  
+- 🏆 Hackathon participant & winner
 - 🎬 Passionate **Video Editor**
-- 🚀 Love building creative tech projects  
+- 🚀 Love building creative tech projects
 - 🌱 Currently learning **Full Stack Development**
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,git,github,vscode,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,git,github,vscode,tailwind,figma"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=code-nisarg&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=code-nisarg&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 📈 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-nisarg&layout=compact&theme=tokyonight"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-nisarg&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/code-nisarg">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://twitter.com">
-<img src="https://skillicons.dev/icons?i=twitter" />
+<img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
 </p>
@@ -85,6 +97,6 @@
 
 <p align="center">
 
-🟡 **Eat Bugs Like Pac-Man • Build Cool Things • Keep Coding**
+🟡 Eat Bugs Like Pac-Man • Build Cool Things • Keep Coding
 
 </p>
