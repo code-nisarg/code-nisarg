@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,FFD700,FFD700,0&height=180&section=header&text=NISARG%20ANAND&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=●%20FULL%20STACK%20DEVELOPER%20●&descAlignY=58&descSize=16&descColor=FFD700"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2000&pause=600&color=FFD700&center=true&vCenter=true&width=720&height=55&lines=ᗧ···ᗣ+LOADING+PLAYER+DATA...;ᗧ···ᗣ+SKILL+POINTS+ACQUIRED!;ᗧ···ᗣ+READY+PLAYER+ONE!;ᗧ···ᗣ+CHASING+BUGS+SINCE+DAY+ONE." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2000&pause=600&color=FFD700&center=true&vCenter=true&width=720&height=55&lines=👾+LOADING+PLAYER+DATA...;👾+SKILL+POINTS+ACQUIRED!;👾+READY+PLAYER+ONE!;👾+CHASING+BUGS+SINCE+DAY+ONE." />
 
 </div>
 
@@ -11,26 +11,24 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  ᗧ  PLAYER  ONE  INSERT  COIN  TO  CONTINUE  ᗣ ᗣ ᗣ        ║
-╚══════════════════════════════════════════════════════════════╝
++--------------------------------------------------------------+
+|  👾  PLAYER ONE  --  INSERT COIN TO CONTINUE  🟡 🟡 🟡     |
++--------------------------------------------------------------+
 ```
 
 </div>
 
+---
+
 ## 🟡 PLAYER PROFILE
 
-```
- ᗧ · · · · · · · · · · · · · · · · · · · · · · · · · · · ·  ᗣ
-
-  NAME     ──  Nisarg Anand
-  TAG      ──  code-nisarg
-  CLASS    ──  Full Stack Developer
-  STATUS   ──  [ ACTIVE ]  ●  Always Building
-  LIVES    ──  ♥ ♥ ♥
-  POWER    ──  Coffee + Code
-
- ᗧ · · · · · · · · · · · · · · · · · · · · · · · · · · · ·  ᗣ
+```yaml
+Name    : Nisarg Anand
+Tag     : code-nisarg
+Class   : Full Stack Developer
+Status  : [ ACTIVE ] -- Always Building
+Lives   : [♥] [♥] [♥]
+Power   : Coffee + Code
 ```
 
 ---
@@ -38,13 +36,14 @@
 ## 🟡 SKILL PELLETS
 
 ```
-  ᗧ ● JS        ████████████████░░  90%
-    ● React      ███████████████░░░  85%
-    ● Node.js    ██████████████░░░░  80%
-    ● Tailwind   ████████████████░░  88%
-    ● Python     ████████████░░░░░░  70%
-    ● Git        ███████████████░░░  85%
-                                           ᗣ ᗣ ᗣ
+  👾  JS        ████████████████░░  90%
+  👾  React      ███████████████░░░  85%
+  👾  Node.js    ██████████████░░░░  80%
+  👾  Tailwind   ████████████████░░  88%
+  👾  Python     ████████████░░░░░░  70%
+  👾  Git        ███████████████░░░  85%
+
+                         🟡 🟡 🟡 🟡 🟡 🟡 🟡 🟡 🟡
 ```
 
 ---
@@ -104,11 +103,12 @@
 ## 🟡 CURRENT QUESTS
 
 ```
-  ᗧ ●●●  Building full-stack projects from scratch
-  ᗧ ●●●  Leveling up system design skills
-  ᗧ ●●●  Exploring new tech & open source
-  ᗧ ●●●  Chasing 100% commit streak
-                                               ᗣ ᗣ ᗣ
+  👾 [●●●]  Building full-stack projects from scratch
+  👾 [●●●]  Leveling up system design skills
+  👾 [●●●]  Exploring new tech & open source
+  👾 [●●●]  Chasing 100% commit streak
+
+                                        🟡 🟡 🟡 🟡 🟡
 ```
 
 ---
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/ᗧ_GitHub-code--nisarg-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=000000&color=FFD700)](https://github.com/code-nisarg)
+[![GitHub](https://img.shields.io/badge/👾_GitHub-code--nisarg-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=000000&color=FFD700)](https://github.com/code-nisarg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=code-nisarg&style=for-the-badge&color=FFD700&label=PLAYERS+VISITED&labelColor=000000)
 
@@ -128,11 +128,11 @@
 <div align="center">
 
 ```
-·  ·  ·  ·  ·  ·  ·  ᗧ  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+🟡 · · · · · · 👾 · · · · · · 🟡 · · · · · · 👾 · · · · · · 🟡
 
-      GAME OVER?  NAH.  RESPAWNING WITH MORE COMMITS.
+       GAME OVER?  NAH.  RESPAWNING WITH MORE COMMITS.
 
-·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ᗧ  ·  ·  ·  ·  ·  ·  ·
+🟡 · · · · · · · · · · · 👾 · · · · · · 🟡 · · · · · · · · · 🟡
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,FFD700,FFD700,0&height=120&section=footer"/>
