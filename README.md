@@ -11,7 +11,7 @@
 
 - 💻 Core Member of **Student Developers Club**
 - 🏆 Hackathon participant & winner  
-- 🎬 Passionate **Video Editor**  
+- 🎬 Passionate **Video Editor**
 - 🚀 Love building creative tech projects  
 - 🌱 Currently learning **Full Stack Development**
 
@@ -57,28 +57,8 @@
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
 
-<a href="https://github.com/code-nisarg">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://twitter.com">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-🟡 **Eat Bugs Like Pac-Man • Build Cool Things • Keep Coding**
+🟡 Eat Bugs Like Pac-Man • Build Cool Things • Keep Coding
 
 </p>
