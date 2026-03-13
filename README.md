@@ -1,93 +1,139 @@
 <div align="center">
 
-# 👾 Hi, I'm Nisarg Anand
+<!-- GLITCH HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NISARG%20ANAND&fontSize=60&fontColor=F7DF1E&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18&descColor=888888"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&color=F7DF1E&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub;Full+Stack+Developer;Building+cool+things;Always+learning+new+tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=2500&pause=800&color=F7DF1E&center=true&vCenter=true&width=700&height=60&lines=%3E+INITIALIZING+PORTFOLIO...;%3E+LOADING+SKILLS...+%5B%23%23%23%23%23%23%23%23%23%23%5D+100%25;%3E+WELCOME%2C+PLAYER+ONE.;%3E+READY+TO+BUILD+SOMETHING+EPIC%3F" alt="Typing SVG" />
 
 </div>
 
 ---
 
-# 🕹️ PLAYER PROFILE
+## 🕹️ PLAYER PROFILE
 
-```yaml
-Name: Nisarg Anand
-Username: code-nisarg
-Class: Developer
-Skills:
-  - Web Development
-  - JavaScript
-  - React
-  - NodeJS
-Current Quest:
-  - Building cool projects
-  - Improving system design
+```javascript
+const nisarg = {
+  username   : "code-nisarg",
+  class      : "Full Stack Developer",
+  level      : "∞",
+  location   : "India 🇮🇳",
+  xp         : "Always grinding",
+
+  skills: {
+    frontend : ["React", "JavaScript", "Tailwind CSS", "HTML/CSS"],
+    backend  : ["Node.js", "Express"],
+    tools    : ["Git", "Linux", "VS Code"],
+    language : ["Python", "JavaScript"],
+  },
+
+  currentQuests: [
+    "⚔️  Building impactful full-stack projects",
+    "🧠  Mastering system design",
+    "🔭  Exploring new technologies",
+    "🤝  Open to collaborations",
+  ],
+
+  stats: {
+    coffeeConsumed : "☕☕☕☕☕",
+    bugsFixed      : "countless",
+    sleepSchedule  : "undefined",
+  },
+};
 ```
 
 ---
 
-# 🎮 Tech Stack
+## ⚔️ TECH ARSENAL
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,python,git,vscode,linux"/>
+**[ LANGUAGES & FRAMEWORKS ]**
 
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,tailwind&theme=dark&perline=8" />
 
----
+<br/>
 
-# 🏆 GitHub Stats
+**[ TOOLS & ENVIRONMENT ]**
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm,vercel,figma&theme=dark&perline=8" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-nisarg&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🔥 Streak
+## 🏆 BATTLE STATS
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-nisarg&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=F7DF1E&icon_color=F7DF1E&text_color=c9d1d9&ring_color=F7DF1E"/>
 
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-nisarg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F7DF1E&text_color=c9d1d9&langs_count=8"/>
 
----
-
-# 👾 Pacman Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/code-nisarg/code-nisarg/output/pacman-contribution-graph.svg" />
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Activity
+## 🔥 DAILY STREAK
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-nisarg&theme=tokyo-night&hide_border=true"/>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-nisarg&theme=tokyonight&hide_border=true&background=0d1117&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E&sideLabels=888888&dates=888888"/>
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 👾 PACMAN EATS MY COMMITS
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/code-nisarg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://raw.githubusercontent.com/code-nisarg/code-nisarg/output/pacman-contribution-graph.svg" alt="pacman contribution graph"/>
 
-</p>
+</div>
+
+---
+
+## 📈 ACTIVITY LOG
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-nisarg&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=F7DF1E&line=F7DF1E&point=ffffff&area=true&area_color=F7DF1E"/>
+
+</div>
+
+---
+
+## 🌐 FIND ME IN THE WILD
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-code--nisarg-F7DF1E?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/code-nisarg)
+[![Email](https://img.shields.io/badge/Email-Hit%20Me%20Up-F7DF1E?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117)](mailto:your@email.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-🕹️ *Game Over? Never. Respawning with more commits.*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════╗
+║   GAME OVER?  NAH. RESPAWNING...          ║
+║   ████████████████████░░  85% LOADED      ║
+║   NEXT LEVEL: UNLOCKING SOON              ║
+╚════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=code-nisarg&style=for-the-badge&color=F7DF1E&label=PLAYERS+VISITED&labelColor=0d1117)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>
