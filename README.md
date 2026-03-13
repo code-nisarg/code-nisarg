@@ -2,31 +2,38 @@
 <h3 align="center">Developer • Hackathon Enthusiast • Video Editor</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=F7D51D&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Building+Cool+Projects;Coding+Like+Pacman;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=F7D51D&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;Building+Cool+Projects;Hackathons+%7C+Development+%7C+Creativity;Always+Learning+Something+New" />
 </p>
 
 ---
 
-
-## 🧱 3D Contribution Graph
+# 🧱 3D Contribution Graph
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-green-animate.svg">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-nisarg&theme=github-dark"/>
+</p>
+
+---
+
+# 🧑‍💻 About Me
 
 - 💻 Core Member of **Student Developers Club**
-- 🏆 Hackathon participant & winner
+- 🏆 Hackathon participant & winner  
 - 🎬 Passionate **Video Editor**
-- 🚀 Love building creative tech projects
+- 🚀 Love building creative tech projects  
 - 🌱 Currently learning **Full Stack Development**
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
@@ -36,32 +43,47 @@
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=tokyonight"/>
-
-<img height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=code-nisarg&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=code-nisarg&theme=algolia&row=1&margin-w=15"/>
 
 </p>
 
 ---
 
-## 📈 Most Used Languages
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-nisarg&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=code-nisarg&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-nisarg&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- ⚡ Advanced React / Next.js  
+- 🧠 System Design  
+- 🚀 Scalable Backend Development  
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -83,6 +105,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-nisarg&
 
 <p align="center">
 
-🟡 Eat Bugs Like Pac-Man • Build Cool Things • Keep Coding
+🟡 **Eat Bugs Like Pac-Man • Build Cool Things • Keep Coding**
 
 </p>
