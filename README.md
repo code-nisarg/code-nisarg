@@ -7,7 +7,21 @@
 
 ---
 
-## 🧑‍💻 About Me
+# 🟡 Pac-Man Contribution Graph
+
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/code-nisarg/code-nisarg/blob/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/code-nisarg/code-nisarg/blob/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://github.com/code-nisarg/code-nisarg/blob/output/pacman-contribution-graph.svg">
+</picture>
+
+</p>
+
+---
+
+# 🧑‍💻 About Me
 
 - 💻 Core Member of **Student Developers Club**
 - 🏆 Hackathon participant & winner  
@@ -17,7 +31,7 @@
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 <p align="center">
 
@@ -27,15 +41,7 @@
 
 ---
 
-## 🟡 Contribution Animation
-
-<p align="center">
-<img src="https://github.com/code-nisarg/code-nisarg/blob/output/pacman-contribution-graph.svg">
-</p>
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -47,7 +53,7 @@
 
 ---
 
-## 📈 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
 
@@ -57,8 +63,28 @@
 
 ---
 
+# 🌐 Connect With Me
+
 <p align="center">
 
-🟡 Eat Bugs Like Pac-Man • Build Cool Things • Keep Coding
+<a href="https://github.com/code-nisarg">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+🟡 **Eat Bugs Like Pac-Man • Build Cool Things • Keep Coding**
 
 </p>
