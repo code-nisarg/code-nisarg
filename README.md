@@ -7,7 +7,7 @@
 
 ---
 
-# 🧱 3D Contribution Graph
+## 🧱 3D Contribution Graph
 
 <p align="center">
 <img src="./profile-3d-contrib/profile-night-rainbow.svg">
@@ -15,15 +15,15 @@
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-nisarg&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-nisarg&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 - 💻 Core Member of **Student Developers Club**
 - 🏆 Hackathon participant & winner  
@@ -33,7 +33,7 @@
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,git,github,vscode,tailwind,figma"/>
@@ -41,49 +41,45 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=code-nisarg&theme=tokyonight"/>
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=code-nisarg&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Most Used Languages
+## 📊 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-nisarg&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-nisarg&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+## 📊 Developer Metrics
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=code-nisarg&theme=algolia&row=1&margin-w=15"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-nisarg&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,docker,postgres"/>
-
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
