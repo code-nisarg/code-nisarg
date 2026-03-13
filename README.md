@@ -7,25 +7,11 @@
 
 ---
 
-## 🟡 Contribution Graph
+
+## 🧱 3D Contribution Graph
 
 <p align="center">
-
-<picture>
-
-<!-- Dark Mode -->
-<source media="(prefers-color-scheme: dark)"
-srcset="https://github.com/code-nisarg/code-nisarg/blob/output/github-contribution-grid-snake-dark.svg">
-
-<!-- Light Mode -->
-<source media="(prefers-color-scheme: light)"
-srcset="https://github.com/code-nisarg/code-nisarg/blob/output/pacman-contribution-graph.svg">
-
-<img alt="Contribution animation"
-src="https://github.com/code-nisarg/code-nisarg/blob/output/github-contribution-grid-snake-dark.svg">
-
-</picture>
-
+<img src="./profile-3d-contrib/profile-green-animate.svg">
 </p>
 
 ---
