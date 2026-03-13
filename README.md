@@ -1,18 +1,10 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════ -->
-<!--              COSMIC HEADER                     -->
-<!-- ══════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d1a,40:1a0800,100:ff3010&text=NISARG&fontColor=ffffff&fontSize=72&fontAlignY=40&fontAlign=50&desc=Developer%20%E2%80%A2%20Hackathon%20Enthusiast%20%E2%80%A2%20Video%20Editor&descFontColor=ffaa80&descAlignY=62&descAlign=50&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=800&color=FF5820&center=true&vCenter=true&width=600&lines=Building+Cool+Projects+%F0%9F%9A%80;Hackathons+%7C+Dev+%7C+Creativity+%F0%9F%94%A5;Always+Learning+Something+New+%E2%9C%A8;Welcome+to+my+GitHub+%F0%9F%8C%8C" />
 
 <br/><br/>
-
-<!-- ══════════════════════════════════════════════ -->
-<!--              PROFILE VIEWS + BADGES           -->
-<!-- ══════════════════════════════════════════════ -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=code-nisarg&style=for-the-badge&color=ff5820&labelColor=0d0d1a&label=PROFILE+VIEWS)
 &nbsp;
@@ -24,10 +16,6 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════ -->
-<!--              3D CONTRIBUTION GRAPH            -->
-<!-- ══════════════════════════════════════════════ -->
-
 <div align="center">
 
 ### 🌌 &nbsp; `3D CONTRIBUTION GALAXY`
@@ -38,57 +26,38 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════ -->
-<!--              ABOUT ME                         -->
-<!-- ══════════════════════════════════════════════ -->
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
+### 🧑‍🚀 &nbsp; `ABOUT ME`
 
-<br/>
-
-<table align="center" width="100%">
-<tr>
-<td width="55%" valign="top">
-
-### 🧑‍🚀 &nbsp; About Me
+</div>
 
 ```yaml
 name        : Nisarg
 role        : Full Stack Developer
 base        : India 🇮🇳
-org         : Student Developers Club
-              (Core Member)
+org         : Student Developers Club (Core Member)
 
 passions    :
   - Hackathons & building under pressure
   - Creative tech projects
   - Video editing & motion design
 
-currently   : Learning Full Stack Dev
-              React · Next.js · Node.js
-              Docker · PostgreSQL
-
-fun_fact    : "I debug at 2am and
-               call it productive"
+learning    : React · Next.js · Node.js · Docker · PostgreSQL
+fun_fact    : "I debug at 2am and call it productive"
 ```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-nisarg&theme=github-dark&bg_color=0d0d1a&color=ff5820&line=ff3010&point=ff8040&area=true&hide_border=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
 ---
 
-<!-- ══════════════════════════════════════════════ -->
-<!--              TECH STACK                       -->
-<!-- ══════════════════════════════════════════════ -->
+<div align="center">
+
+### 📈 &nbsp; `ACTIVITY GRAPH`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-nisarg&theme=github-dark&bg_color=0d0d1a&color=ff5820&line=ff3010&point=ff8040&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -127,17 +96,13 @@ fun_fact    : "I debug at 2am and
 
 ---
 
-<!-- ══════════════════════════════════════════════ -->
-<!--              GITHUB STATS                     -->
-<!-- ══════════════════════════════════════════════ -->
-
 <div align="center">
 
 ### 📊 &nbsp; `MISSION CONTROL — GITHUB STATS`
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=dark&bg_color=0d0d1a&title_color=ff5820&icon_color=ff3010&text_color=e2d8d8&border_color=ff3010&border_radius=12&hide_border=false&ring_color=ff5820&fire=ff5820" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=dark&bg_color=0d0d1a&title_color=ff5820&icon_color=ff3010&text_color=e2d8d8&border_color=ff3010&border_radius=12&hide_border=false" />
 &nbsp;&nbsp;
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=code-nisarg&theme=dark&background=0d0d1a&ring=ff5820&fire=ff3010&currStreakLabel=ff5820&sideLabels=ff6030&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=ff3010&border_radius=12" />
 
@@ -153,25 +118,17 @@ fun_fact    : "I debug at 2am and
 
 ---
 
-<!-- ══════════════════════════════════════════════ -->
-<!--              TROPHIES                         -->
-<!-- ══════════════════════════════════════════════ -->
-
 <div align="center">
 
 ### 🏆 &nbsp; `MISSION TROPHIES`
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=code-nisarg&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=ff5820" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=code-nisarg&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════ -->
-<!--              CURRENTLY LEARNING               -->
-<!-- ══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -184,7 +141,7 @@ fun_fact    : "I debug at 2am and
 <br/><br/>
 
 | 🚀 Technology | 📡 Status | 🔥 Progress |
-|:---:|:---:|:---:|
+|:---|:---:|:---:|
 | React & Next.js | Active | `████████░░` 80% |
 | Node.js & Express | Active | `███████░░░` 70% |
 | Docker | Learning | `█████░░░░░` 50% |
@@ -193,10 +150,6 @@ fun_fact    : "I debug at 2am and
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════ -->
-<!--              SNAKE CONTRIBUTION               -->
-<!-- ══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -210,15 +163,11 @@ fun_fact    : "I debug at 2am and
   <img alt="github-snake" src="https://raw.githubusercontent.com/code-nisarg/code-nisarg/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-> ⚙️ *To enable the snake: add a [GitHub Action](https://github.com/Platane/snk) to your profile repo that generates the SVG.*
+> ⚙️ *Enable by adding the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo.*
 
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════ -->
-<!--              CONNECT                          -->
-<!-- ══════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -240,12 +189,8 @@ fun_fact    : "I debug at 2am and
 
 ---
 
-<!-- ══════════════════════════════════════════════ -->
-<!--              FOOTER                           -->
-<!-- ══════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer&text=%F0%9F%94%A5%20Eat%20Bugs%20Like%20Pac-Man%20%E2%80%A2%20Build%20Cool%20Things%20%E2%80%A2%20Keep%20Coding%20%F0%9F%9A%80&fontColor=ff5820&fontSize=14&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff3010,60:1a0800,100:0d0d1a&section=footer&text=%F0%9F%94%A5%20Eat%20Bugs%20Like%20Pac-Man%20%E2%80%A2%20Build%20Cool%20Things%20%E2%80%A2%20Keep%20Coding%20%F0%9F%9A%80&fontColor=ffaa80&fontSize=14&fontAlignY=40" width="100%"/>
 
 </div>
