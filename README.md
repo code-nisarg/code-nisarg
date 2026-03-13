@@ -1,110 +1,253 @@
-<h1 align="center">Hi 👋, I'm Nisarg</h1>
-<h3 align="center">Developer • Hackathon Enthusiast • Video Editor</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=F7D51D&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;Building+Cool+Projects;Hackathons+%7C+Development+%7C+Creativity;Always+Learning+Something+New" />
-</p>
+<!-- ══════════════════════════════════════════════ -->
+<!--              COSMIC HEADER                     -->
+<!-- ══════════════════════════════════════════════ -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=0,2,2,5,30&text=NISARG&fontColor=ff5820&fontSize=80&fontAlignY=55&desc=Developer%20%E2%80%A2%20Hackathon%20Enthusiast%20%E2%80%A2%20Video%20Editor&descAlignY=75&descSize=16&stroke=ff3010&strokeWidth=2" width="100%"/>
 
-## 🧱 3D Contribution Graph
+<br/>
 
-<p align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=800&color=FF5820&center=true&vCenter=true&width=600&lines=Building+Cool+Projects+%F0%9F%9A%80;Hackathons+%7C+Dev+%7C+Creativity+%F0%9F%94%A5;Always+Learning+Something+New+%E2%9C%A8;Welcome+to+my+GitHub+%F0%9F%8C%8C" />
 
----
+<br/><br/>
 
-## 📈 GitHub Activity
+<!-- ══════════════════════════════════════════════ -->
+<!--              PROFILE VIEWS + BADGES           -->
+<!-- ══════════════════════════════════════════════ -->
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-nisarg&theme=github-dark&hide_border=true"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=code-nisarg&style=for-the-badge&color=ff5820&labelColor=0d0d1a&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/code-nisarg?style=for-the-badge&color=ff5820&labelColor=0d0d1a&logo=github&logoColor=ff5820)](https://github.com/code-nisarg)
+&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/code-nisarg?style=for-the-badge&color=ff3010&labelColor=0d0d1a&logo=github&logoColor=ff3010)
 
----
-
-## 🧑‍💻 About Me
-
-- 💻 Core Member of **Student Developers Club**
-- 🏆 Hackathon participant & winner  
-- 🎬 Passionate **Video Editor**
-- 🚀 Love building creative tech projects  
-- 🌱 Currently learning **Full Stack Development**
+</div>
 
 ---
 
-## ⚡ Tech Stack
+<!-- ══════════════════════════════════════════════ -->
+<!--              3D CONTRIBUTION GRAPH            -->
+<!-- ══════════════════════════════════════════════ -->
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,git,github,vscode,tailwind,figma"/>
-</p>
+<div align="center">
 
----
+### 🌌 &nbsp; `3D CONTRIBUTION GALAXY`
 
-## 📊 GitHub Stats
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=code-nisarg&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 📊 Most Used Languages
+<!-- ══════════════════════════════════════════════ -->
+<!--              ABOUT ME                         -->
+<!-- ══════════════════════════════════════════════ -->
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-nisarg&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 🧑‍🚀 &nbsp; About Me
+
+```yaml
+name        : Nisarg
+role        : Full Stack Developer
+base        : India 🇮🇳
+org         : Student Developers Club
+              (Core Member)
+
+passions    :
+  - Hackathons & building under pressure
+  - Creative tech projects
+  - Video editing & motion design
+
+currently   : Learning Full Stack Dev
+              React · Next.js · Node.js
+              Docker · PostgreSQL
+
+fun_fact    : "I debug at 2am and
+               call it productive"
+```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-nisarg&theme=github-dark&bg_color=0d0d1a&color=ff5820&line=ff3010&point=ff8040&area=true&hide_border=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%"/>
 
 ---
 
-## 📊 Developer Metrics
+<!-- ══════════════════════════════════════════════ -->
+<!--              TECH STACK                       -->
+<!-- ══════════════════════════════════════════════ -->
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-nisarg&theme=tokyonight"/>
-</p>
+<div align="center">
+
+### ⚡ &nbsp; `TECH STACK`
+
+<br/>
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ff5820?style=for-the-badge&logo=javascript&logoColor=0d0d1a)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff3010?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff6a30?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ff4020?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+<br/>
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-ff5820?style=for-the-badge&logo=react&logoColor=0d0d1a)
+![Next.js](https://img.shields.io/badge/Next.js-ff3010?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-ff6030?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ff4020?style=for-the-badge&logo=figma&logoColor=white)
+
+<br/>
+
+**Backend & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-ff5820?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ff3010?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff6030?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ff4020?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ff5820?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-ff3010?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-## 📚 Currently Learning
+<!-- ══════════════════════════════════════════════ -->
+<!--              GITHUB STATS                     -->
+<!-- ══════════════════════════════════════════════ -->
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,docker,postgres"/>
-</p>
+<div align="center">
 
----
+### 📊 &nbsp; `MISSION CONTROL — GITHUB STATS`
 
-## 🌐 Connect With Me
+<br/>
 
-<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=code-nisarg&show_icons=true&theme=dark&bg_color=0d0d1a&title_color=ff5820&icon_color=ff3010&text_color=e2d8d8&border_color=ff3010&border_radius=12&hide_border=false&ring_color=ff5820&fire=ff5820" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=code-nisarg&theme=dark&background=0d0d1a&ring=ff5820&fire=ff3010&currStreakLabel=ff5820&sideLabels=ff6030&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=ff3010&border_radius=12" />
 
-<a href="https://github.com/code-nisarg">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-nisarg&layout=compact&theme=dark&bg_color=0d0d1a&title_color=ff5820&text_color=e2d8d8&border_color=ff3010&border_radius=12&hide_border=false&langs_count=8" />
 
-<a href="https://twitter.com">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-nisarg&theme=github_dark" width="95%"/>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<!-- ══════════════════════════════════════════════ -->
+<!--              TROPHIES                         -->
+<!-- ══════════════════════════════════════════════ -->
 
-🟡 **Eat Bugs Like Pac-Man • Build Cool Things • Keep Coding**
+<div align="center">
 
-</p>
+### 🏆 &nbsp; `MISSION TROPHIES`
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=code-nisarg&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=ff5820" width="100%"/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════ -->
+<!--              CURRENTLY LEARNING               -->
+<!-- ══════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🌱 &nbsp; `CURRENT ORBIT — LEARNING`
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,docker,postgres&theme=dark" />
+
+<br/><br/>
+
+| 🚀 Technology | 📡 Status | 🔥 Progress |
+|:---:|:---:|:---:|
+| React & Next.js | Active | `████████░░` 80% |
+| Node.js & Express | Active | `███████░░░` 70% |
+| Docker | Learning | `█████░░░░░` 50% |
+| PostgreSQL | Learning | `████░░░░░░` 40% |
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════ -->
+<!--              SNAKE CONTRIBUTION               -->
+<!-- ══════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🐍 &nbsp; `CONTRIBUTION SNAKE`
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code-nisarg/code-nisarg/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/code-nisarg/code-nisarg/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/code-nisarg/code-nisarg/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+> ⚙️ *To enable the snake: add a [GitHub Action](https://github.com/Platane/snk) to your profile repo that generates the SVG.*
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════ -->
+<!--              CONNECT                          -->
+<!-- ══════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🌐 &nbsp; `ESTABLISH CONTACT`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-code--nisarg-ff5820?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a)](https://github.com/code-nisarg)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff3010?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://linkedin.com/in/YOUR_USERNAME)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-ff6030?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d1a)](https://twitter.com/YOUR_USERNAME)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact-ff4020?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a)](mailto:YOUR_EMAIL@gmail.com)
+
+<br/>
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════ -->
+<!--              FOOTER                           -->
+<!-- ══════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer&text=%F0%9F%94%A5%20Eat%20Bugs%20Like%20Pac-Man%20%E2%80%A2%20Build%20Cool%20Things%20%E2%80%A2%20Keep%20Coding%20%F0%9F%9A%80&fontColor=ff5820&fontSize=14&fontAlignY=65" width="100%"/>
+
+</div>
