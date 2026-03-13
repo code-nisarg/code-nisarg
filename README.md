@@ -6,11 +6,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=code-nisarg&style=for-the-badge&color=ff5820&labelColor=0d0d1a&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/code-nisarg?style=for-the-badge&color=ff5820&labelColor=0d0d1a&logo=github&logoColor=ff5820)](https://github.com/code-nisarg)
-&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/code-nisarg?style=for-the-badge&color=ff3010&labelColor=0d0d1a&logo=github&logoColor=ff3010)
 
 </div>
 
@@ -28,38 +23,46 @@
 
 <div align="center">
 
-### 🛸 &nbsp; `CREW MANIFEST — NISARG`
+### 🔭 &nbsp; `STAR MAP — NISARG.CONSTELLATION`
 
 </div>
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║              🌌  MISSION DOSSIER  //  CLASSIFIED             ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🪐  DESIGNATION  →  Nisarg                                  ║
-║  🚀  MISSION ROLE →  Full Stack Developer                    ║
-║  🌍  HOME BASE    →  India                                   ║
-║  🛰️  SQUADRON     →  Student Developers Club (Core Member)   ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║  ☄️  CORE SYSTEMS ONLINE                                     ║
-║                                                              ║
-║     ▸  Hackathons & building under pressure                  ║
-║     ▸  Creative tech projects                                ║
-║     ▸  Video editing & motion design                         ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║  📡  CURRENTLY ACQUIRING                                     ║
-║                                                              ║
-║     React  ·  Next.js  ·  Node.js  ·  Docker  ·  PostgreSQL  ║
-║                                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║  🔭  LAST TRANSMISSION                                       ║
-║                                                              ║
-║     "I debug at 2am and call it productive"                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+                        . · ✦ · .
+          ✧                                      ✧
+                  ★  NISARG  ★
+               [ RA 21h 42m · DEC +18° 52' ]
+          ·                                          ·
+
+   ✦ ──────────────────────────────────────────── ✦
+
+        ✺  OBJECT CLASS   →   Full Stack Developer
+        ✺  ORIGIN SYSTEM  →   India  🌏
+        ✺  CLUSTER        →   Student Developers Club
+
+   ✦ ──────────────────────────────────────────── ✦
+
+                    ·  ORBITAL TRAITS  ·
+
+        ⊹  Hackathons & building under pressure
+        ⊹  Creative tech projects
+        ⊹  Video editing & motion design
+
+   ✦ ──────────────────────────────────────────── ✦
+
+              ·  SIGNAL ACQUISITIONS  ·
+
+        ◈  React  ◈  Next.js  ◈  Node.js
+             ◈  Docker  ◈  PostgreSQL
+
+   ✦ ──────────────────────────────────────────── ✦
+
+         📻  LAST KNOWN TRANSMISSION  →
+             "I debug at 2am and call it productive"
+
+          ·                                          ·
+          ✧                                      ✧
+                        · · ✦ · ·
 ```
 
 ---
