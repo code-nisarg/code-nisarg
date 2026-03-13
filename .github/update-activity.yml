@@ -1,0 +1,19 @@
+name: Update GitHub Activity Maze
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Auto-saves every 12 hours
+  workflow_dispatch: # Allows you to trigger it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "👾 quest log updated: recent github activity"
+          MAX_LINES: 5
