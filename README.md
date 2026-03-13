@@ -28,23 +28,38 @@
 
 <div align="center">
 
-### 🧑‍🚀 &nbsp; `ABOUT ME`
+### 🛸 &nbsp; `CREW MANIFEST — NISARG`
 
 </div>
 
-```yaml
-name        : Nisarg
-role        : Full Stack Developer
-base        : India 🇮🇳
-org         : Student Developers Club (Core Member)
-
-passions    :
-  - Hackathons & building under pressure
-  - Creative tech projects
-  - Video editing & motion design
-
-learning    : React · Next.js · Node.js · Docker · PostgreSQL
-fun_fact    : "I debug at 2am and call it productive"
+```
+╔══════════════════════════════════════════════════════════════╗
+║              🌌  MISSION DOSSIER  //  CLASSIFIED             ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  🪐  DESIGNATION  →  Nisarg                                  ║
+║  🚀  MISSION ROLE →  Full Stack Developer                    ║
+║  🌍  HOME BASE    →  India                                   ║
+║  🛰️  SQUADRON     →  Student Developers Club (Core Member)   ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║  ☄️  CORE SYSTEMS ONLINE                                     ║
+║                                                              ║
+║     ▸  Hackathons & building under pressure                  ║
+║     ▸  Creative tech projects                                ║
+║     ▸  Video editing & motion design                         ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║  📡  CURRENTLY ACQUIRING                                     ║
+║                                                              ║
+║     React  ·  Next.js  ·  Node.js  ·  Docker  ·  PostgreSQL  ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║  🔭  LAST TRANSMISSION                                       ║
+║                                                              ║
+║     "I debug at 2am and call it productive"                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
