@@ -30,7 +30,7 @@
 ## 🟡 Contribution Animation
 
 <p align="center">
-<img src="https://github.com/code-nisarg/code-nisarg/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/code-nisarg/code-nisarg/blob/output/pacman-contribution-graph.svg">
 </p>
 
 ---
